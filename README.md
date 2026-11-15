@@ -102,14 +102,6 @@ Based on the analysis, the following actions are recommended:
 4. **Monitor Growth:** Track monthly signups and month-over-month growth.
 5. **Retain High-Value Users:** Identify Power Users and develop strategies to maintain their engagement.
 
-## Conclusion
 
-This project demonstrates how SQL can be used to analyze operational performance, understand customer behavior, identify distribution challenges, and measure business growth.
 
-By translating data into actionable insights, the analysis supports better operational planning, customer engagement, and data-driven decision-making.
 
-## Project Structure
-
-- `SQL/` – SQL queries used in the analysis.
-- `Screenshots/` – BigQuery query results and analysis evidence.
-- `README.md` – Project overview, findings, and business recommendations.
